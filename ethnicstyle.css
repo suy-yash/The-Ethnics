@@ -1,0 +1,92 @@
+body{
+    margin: 0%;
+}
+h1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: white;
+    max-width: 100%;
+    border: 1px solid;
+    padding: 3%;
+    margin: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+    background-color: black;
+    border-color: bisque
+    position:-webkit-sticky;
+    position: sticky;
+    top:0;
+    
+}
+h1:hover{
+    font-family;
+    text-align: center;
+    background-color: white;
+    color: black;
+    max-width: 100%;
+    border: 1px solid;
+    padding:3%;
+    margin: 0%;
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+    border-color:goldenrod;
+}
+video{
+    max-width:100%;
+    height: auto;
+    display: block;
+    vertical-align: middle;
+}
+.a{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    text-align: left;
+    text-decoration: none;
+    color: rgb(255, 187, 99);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-right:0.9%;
+}
+.a:hover{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    text-align: left;
+    text-decoration: none;
+    color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-right:0.9%;
+}
+img{
+    margin: 1%;
+}
+div{
+    background-color: White;
+    text-align: center;
+    color: black;
+    margin: 0%;
+    padding: 5%;
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 3%;
+}
+.sp{
+    display: inline-block;
+    border: 2px solid;
+    padding: 1%;
+    border-color: rgb(255, 173, 66);
+    border-style: outset;
+    color: black;
+    text-decoration: none;
+    
+}
+.sp:hover{
+    display: inline-block;
+    border: 2px solid;
+    padding: 1%;
+    border-color:rgb(97, 37, 37);
+    border-style: inset;
+    color:rgb(255, 173, 66);
+    text-decoration: none;
+}
